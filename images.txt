@@ -1,1 +1,1 @@
-xiaoyaliu/alist--platform=linux_arm
+--platform=linux/arm64 xiaoyaliu/alist
