@@ -1,1 +1,1 @@
---platform=linux/arm64 1panel/maxkb
+--platform=linux/arm64 casaos/alist
