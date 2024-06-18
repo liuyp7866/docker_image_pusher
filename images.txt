@@ -1,1 +1,1 @@
---platform=linux/arm64 wangbinxingkong/fast
+--platform=linux/arm64 nyanmisaka/jellyfin
