@@ -1,1 +1,1 @@
---platform=linux/arm64 nyanmisaka/jellyfin
+--platform=linux/arm64 1panel/maxkb
