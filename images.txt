@@ -1,1 +1,1 @@
---platform=linux/arm64 casaos/alist
+--platform=linux/arm64 moelin/1panel
