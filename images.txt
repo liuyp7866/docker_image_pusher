@@ -1,1 +1,1 @@
---platform=linux/arm64 moelin/1panel
+--platform=linux/arm64 magic4wei/casaos
